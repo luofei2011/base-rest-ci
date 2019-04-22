@@ -5,7 +5,6 @@ use CodeIgniter\libraries\Utils;
 use CodeIgniter\libraries\CConst;
 use CodeIgniter\libraries\Redis;
 use CodeIgniter\models\_models\User as UserModel;
-use CodeIgniter\models\_models\Contact as ContactModel;
 
 require_once APPPATH . "third_party/wxapp_aes/wxBizDataCrypt.php";
 
