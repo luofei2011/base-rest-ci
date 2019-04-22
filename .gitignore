@@ -1,0 +1,9 @@
+.DS_Store
+.env
+log
+*.swp
+*.swo
+*.~
+
+vendor
+openssl-rsa-store
